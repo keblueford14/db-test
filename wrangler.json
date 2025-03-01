@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "db-test",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "d705d0af-7015-49cb-bd9d-832ef3e92185",
+      "database_name": "prizepicks"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
